@@ -3,11 +3,11 @@ Pringting group 1 :
 o2 o3 o11 o15 o17 o18 o20 
 The drying time for this printing group: 0.8911338104
 Pringting group 2 :
-o5 o9 
-The drying time for this printing group: 0.2997695750
+o6 o9 
+The drying time for this printing group: 0.3490110989
 Pringting group 3 :
-o6 o7 o13 o14 o19 o21 o22 
-The drying time for this printing group: 0.8958399515
+o5 o7 o13 o14 o19 o21 o22 
+The drying time for this printing group: 0.8541244665
 Pringting group 4 :
 o4 o8 o10 o16 
 The drying time for this printing group: 0.6114343936
@@ -16,4 +16,4 @@ o111 o112 o113 o121 o122 o123
 The drying time for this printing group: 1.9381778675
 
 Total printing group: 5
-Total sum of optimization solution is 9.6363555980
+Total sum of optimization solution is 9.6438816369
