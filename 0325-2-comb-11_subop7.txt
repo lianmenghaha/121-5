@@ -1,19 +1,22 @@
 The 7-th sub-optimal Solution
 Pringting group 1 :
-o2 o3 o11 o15 o17 o18 o20 
-The drying time for this printing group: 0.8911338104
+o2 o11 o15 o17 o20 
+The drying time for this printing group: 0.5951038299
 Pringting group 2 :
-o6 o7 o9 o13 o14 o21 o22 
-The drying time for this printing group: 0.8741639078
+o5 o9 
+The drying time for this printing group: 0.2997696322
 Pringting group 3 :
-o4 o5 o10 o19 
-The drying time for this printing group: 0.5642439245
+o3 o6 o18 o21 
+The drying time for this printing group: 0.5740152403
 Pringting group 4 :
-o8 o16 
-The drying time for this printing group: 0.3753492221
+o7 o10 o13 o14 o16 o19 o22 
+The drying time for this printing group: 0.9041378503
 Pringting group 5 :
+o4 o8 
+The drying time for this printing group: 0.3042737812
+Pringting group 6 :
 o111 o112 o113 o121 o122 o123 
 The drying time for this printing group: 1.9381778675
 
-Total printing group: 5
-Total sum of optimization solution is 9.6430687323
+Total printing group: 6
+Total sum of optimization solution is 10.6154782014
